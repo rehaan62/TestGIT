@@ -1,0 +1,18 @@
+Cubes:
+http://www.careeranna.com/articles/logical-reasoning-cubes-paint-cut-and-visualize/
+
+https://www.handakafunda.com/cube-based-puzzles-in-logical-reasoning-for-cat-exam-preparation/
+
+linux tar commands:
+https://www.tecmint.com/18-tar-command-examples-in-linux/
+
+All linux commands:
+https://www.tecmint.com/linux-commands-cheat-sheet/
+
+https://www.guru99.com/must-know-linux-commands.html
+
+Find command:
+https://alvinalexander.com/unix/edu/examples/find.shtml
+
+jenkins
+https://www.udemy.com/learn-devops-with-jenkins-all-in-one-guide/?siteID=jU79Zysihs4-aijN7C_ZHhQ_UKaV780S5g&LSNPUBID=jU79Zysihs4
