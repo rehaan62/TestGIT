@@ -1,0 +1,5 @@
+replace a char or number in a string.
+how to remove special characters in unix
+Diff between view and materialised view.
+Joins with Null data
+Technical challeneges
